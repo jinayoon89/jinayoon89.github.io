@@ -20,7 +20,7 @@ a {
 a.navbar-brand {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	
+
 }
 
 div.navbar-header {
@@ -40,13 +40,16 @@ div.navbar-header {
 footer {
 	margin: 100px 0px;
 	text-align: center;
-	
+
 }
 
-.col-md-6 {
-	width: 100%;
-}
 
 .logo {
 	width: 30px;
+}
+
+div.row {
+
+
+
 }
